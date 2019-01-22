@@ -1,8 +1,8 @@
-# webpack_vue_3
+# webpack_vue_5
 
 This has been used with many rollup vue libraries, to test tree-shaking, including:
 
-rollup_vue_3 - https://github.com/ajrothwell/rollup_vue_3
+rollup_vue_5 - https://github.com/ajrothwell/rollup_vue_5
 
 VueLib1 - https://github.com/ajrothwell/VueLib1
 
@@ -14,5 +14,5 @@ It then does a dynamic import of ExternalLink.vue, but it has to do it from the 
 
 Though the dynamic import seems to be working, it is not clear to me yet whether it can fully tree-shake.
 
-It can be seen in action live at https://ajrothwell.github.io/webpack_vue_3/dist/
-It can be analyzed in action live at https://ajrothwell.github.io/webpack_vue_3/dist/statistics.html
+It can be seen in action live at https://ajrothwell.github.io/webpack_vue_5/dist/
+It can be analyzed in action live at https://ajrothwell.github.io/webpack_vue_5/dist/statistics.html
